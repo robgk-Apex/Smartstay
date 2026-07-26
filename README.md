@@ -1,6 +1,6 @@
 # 🏡 SmartStay USA
 
-**A full-stack short, medium & long-term rental marketplace — "Airbnb 2.0" for the United States.**
+**A full-stack short, medium & long-term rental marketplace for the United States.**
 
 Owners list their homes and set their own rates by the **night, weekend, week, or month**.
 Guests search, compare, and book beautiful stays across the country — with real availability,
